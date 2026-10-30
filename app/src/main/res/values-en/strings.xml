@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">Random Movie</string>
+    <string name="title">Random Movie</string>
+    <string name="subtitle">Not sure what to watch today?</string>
+    <string name="pick_prompt">Tap the button to pick a movie</string>
+    <string name="pick_movie">Pick a movie</string>
+    <string name="reset">Reset</string>
+    <string name="no_more_movies">You have seen every movie. Tap “Reset” to start again.</string>
+
+    <string-array name="movies">
+        <item>The Shawshank Redemption</item>
+        <item>The Godfather</item>
+        <item>The Dark Knight</item>
+        <item>Pulp Fiction</item>
+        <item>Forrest Gump</item>
+        <item>Inception</item>
+        <item>Interstellar</item>
+        <item>The Matrix</item>
+        <item>Spirited Away</item>
+        <item>Parasite</item>
+    </string-array>
+</resources>
