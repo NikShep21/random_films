@@ -73,13 +73,9 @@ private fun MoviePickerScreen(modifier: Modifier = Modifier) {
     ) {
         Text(
             text = stringResource(R.string.title),
+            modifier = Modifier.padding(bottom = 32.dp),
             style = MaterialTheme.typography.headlineLarge,
             fontWeight = FontWeight.Bold
-        )
-        Text(
-            text = stringResource(R.string.subtitle),
-            modifier = Modifier.padding(top = 8.dp, bottom = 32.dp),
-            style = MaterialTheme.typography.bodyLarge
         )
 
         Card(modifier = Modifier.fillMaxWidth()) {

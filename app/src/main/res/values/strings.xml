@@ -1,7 +1,6 @@
 <resources>
     <string name="app_name">Случайный фильм</string>
     <string name="title">Случайный фильм</string>
-    <string name="subtitle">Не знаете, что посмотреть сегодня?</string>
     <string name="pick_prompt">Нажмите кнопку, чтобы выбрать фильм</string>
     <string name="pick_movie">Выбрать фильм</string>
     <string name="reset">Сброс</string>
